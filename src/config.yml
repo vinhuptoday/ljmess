@@ -1,0 +1,29 @@
+# This plugin is written by Ske Software - Pham Vinh ID
+# Missing configuration will causes errors !
+# This plugin is supported PlaceholderAPI, and install PlaceholderAPI is required !
+
+# Viet
+# Plugin này được viết bởi Ske Software - Phạm Vinh ID
+# Thiếu cấu hình sẽ gây ra lỗi !
+# Plugin này có hỗ trợ PlaceholderAPI và cài PlaceholderAPI là bắt buộc!
+
+prefix: "[&4LJMess&r] "
+enabled: true
+enabled-mess: "Thông báo đã được bật !"
+disabled-mess: "Thông báo đã được tắt !"
+reloaded-mess: "Đã tải lại config !"
+missing-perm: "Bạn không có quyền {perm_name} để thực hiện câu lệnh này !"
+player-mess-joined: "Chào mừng &4%player_name%&r đến với máy chủ"
+player-mess-first-joined: "&4%player_name%&r lần đầu đến với máy chủ"
+global-mess-player-left: "&4%player_name%&r đã rời khỏi máy chủ"
+
+# Permission:
+# ljmess.reload - Reload plugin config | Command: /ljmess reload
+# ljmess.enable - Turn on notifications when players join the server | Command: /ljmess enable
+# ljmess.disable - Turn off notifications when player leave the server | Command: /ljmess disable
+
+# Vietnamese
+# Quyền:
+# ljmess.reload - Tải lại cấu hình plugin | Lệnh: /ljmess reload
+# ljmess.enable - Bật thông báo khi người chơi tham gia máy chủ | Lệnh: /ljmess enable
+# ljmess.disable - Tắt thông báo khi người chơi rời khỏi máy chủ | Lệnh: /ljmess disable

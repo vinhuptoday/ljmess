@@ -1,0 +1,9 @@
+name: LJMess
+main: com.skeplugin.packs.Main
+author: Ske Software
+description: Thông báo ra / vào server
+version: 1.0
+depend: [PlaceholderAPI]
+commands:
+   ljmess:
+      usage: /<command> <enable|disable|reload>
